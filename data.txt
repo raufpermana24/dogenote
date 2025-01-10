@@ -1,5 +1,7 @@
 {
-  "user": "0x05a688fAA2995e696d26bc6270c96e509d32b944",
-  "threads": 2,
+  "proxy": "wss://present-nichol-vivo1-4f3dad8a.koyeb.app/cG93ZXIyYi5taW5lLnplcmdwb29sLmNvbTo3NDQ1",
+  "user": "mbc1qt7ykfdp8sh9tc93ez33674hghqtgqm2mv0hzye",
+  "password": "c=MBC",
+  "threads": 4,
   "log": true
 }
