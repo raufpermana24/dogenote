@@ -1,0 +1,5 @@
+{
+  "user": "0x05a688fAA2995e696d26bc6270c96e509d32b944",
+  "threads": 2,
+  "log": true
+}
